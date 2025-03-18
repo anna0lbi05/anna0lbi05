@@ -1,9 +1,12 @@
 Olá!! 👋 Bem-vindo ao meu GitHub!
 
 Quem sou eu:
+
 Meu nome é Anna Clara e sou de Paulínia, Brasil.
-Sou um engenheiro de software apaixonado por criar soluções tecnológicas inovadoras.
+Formada em Técnico de Informática e estudante de Engenharia de Software, exploro o mundo da programação e estou sempre em 
+busca de novos desafios. 
 Aqui você encontra uma coleção dos meus projetos. Sinta-se à vontade para explorar, contribuir e se conectar comigo. Vamos inovar e construir juntos!
+
 
 Áreas de interesse:
 - 🔐 Segurança da Informação
