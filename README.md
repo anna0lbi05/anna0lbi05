@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4169E1"/>
 
 <br>
 
@@ -7,11 +7,8 @@
   <b>`Bem vindo ao meu GitHub`</b>
   <samp>
       <br>
-     Quem sou eu:<b>Anna Clara</b>
+     Sou <b>Anna Clara</b>
   </samp>
-</div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -21,15 +18,10 @@
   <img src="https://imgur.com/hmD0KIs.png" width="200">
 </div>
 <br>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
-
-<br>
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=pixelify+sans&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+de+Paul%C3%ADnia%2C+SP.;Formada+em+T%C3%A9cnico+de+Inform%C3%A1tica+;E+estudante+de+Engenharia+de+Software;Aqui+tem+alguns+dos+meus+projetos...;Sinta-se+%C3%A0+vontade+para+explorar!!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -38,7 +30,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais informações</b>
       </samp>
   </summary>
   
@@ -49,28 +41,35 @@
     height=175
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anna0lbi05&theme=blueberry"
   />
   <img
     height=175
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anna0lbi05&theme=blueberry"
+  />
+  <img
+    height=175
+    align="center"
+    alt="Grafic"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anna0lbi05&theme=blueberry&utcOffset=8"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=midnight_purple"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anna0lbi05&theme=blueberry"
   />
   <br>
   <br>
+  
   <img
     height=154
     align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=midnight-purple&card_width=885"
+    alt="streak-stats"
+    src="(https://github-readme-streak-stats.herokuapp.com?user=anna0lbi05&theme=blueberry)](https://git.io/streak-stats)"
   />
   </div>
 
@@ -106,21 +105,10 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:Olbiannaclara@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=9745f5)](https://www.instagram.com/anna_olbi/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/anna-clara-olbi/)
+  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=4169E1)](mailto:Olbiannaclara@gmail.com)
+  [![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=4169E1)](https://www.instagram.com/anna_olbi/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=4169E1)](https://www.linkedin.com/in/anna-clara-olbi/)
   
-</div>
-
-<div align="center">
-  <p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
 </div>
 
 <br>
@@ -130,4 +118,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4169E1"/>
