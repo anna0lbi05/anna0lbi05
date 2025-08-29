@@ -68,8 +68,7 @@
   <img
     height=154
     align="center"
-    alt="streak-stats"
-    src="(https://github-readme-streak-stats.herokuapp.com?user=anna0lbi05&theme=blueberry)](https://git.io/streak-stats)"
+    src="https://github-readme-streak-stats.herokuapp.com?user=anna0lbi05&theme=blueberry"
   />
   </div>
 
